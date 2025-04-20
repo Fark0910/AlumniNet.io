@@ -9,7 +9,7 @@ A modern, responsive alumni networking platform to help former students reconnec
 - **UI Library**: Material UI (MUI)  
 - **Authentication**: Firebase Auth (with automated session management)  
 - **Database**: Firestore (NoSQL)  
-- **Deployment**: [Vercel](https://vercel.com/)  
+- **Deployment**: [Vercel]([https://vercel.com/](https://alumninet.vercel.app/))  
 - **Project Management**: Vite for fast development & modular structure  
 
 ## 🔐 Firebase Integration
