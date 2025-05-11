@@ -40,11 +40,11 @@ A modern, responsive alumni networking platform to help former students reconnec
 
 Crafted with ❤️ by Fardeen khan
 ## UI pics
-![Alt text](./src/assets/Screenshot 2025-05-11 175919.png)
+![Alt text](./src/assets/logi.png)
 ##
-![Alt text](./src/assets/Screenshot 2025-05-11 175954.png)
+![Alt text](./src/assets/homealum.png)
 ## 
-![Alt text](./src/assets/Screenshot 2025-05-11 180051.png) 
+![Alt text](./src/assets/findalum.png) 
 ##
 
 
