@@ -36,12 +36,16 @@ A modern, responsive alumni networking platform to help former students reconnec
 - 📝 Event announcements  
 - 📰 Alumni blogs and stories  
 
-## 🤝 Contributing
-
-Feel free to fork this repo, raise issues or submit pull requests.  
-Open to collaboration with student devs 🚀  
-
 ## 🙌 Made With
 
 Crafted with ❤️ by Fardeen khan
+## UI pics
+![Alt text](./src/assets/Screenshot 2025-05-11 175919.png)
+##
+![Alt text](./src/assets/Screenshot 2025-05-11 175954.png)
+## 
+![Alt text](./src/assets/Screenshot 2025-05-11 180051.png) 
+##
+
+
 
